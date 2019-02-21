@@ -12,7 +12,8 @@ h3 {
 .header,
 .nyc,
 .footer,
-a {
+.header a,
+.footer a {
   color: white;
 }
 
